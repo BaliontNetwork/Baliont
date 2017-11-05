@@ -1,2 +1,0 @@
-# Baliont
-Servidor Minecraft
